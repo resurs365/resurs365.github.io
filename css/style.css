@@ -856,4 +856,8 @@ a:focus {
   #main-subtitle {
     font-size: 30px;
   }
+
+  #nav-title {
+    opacity: 0;
+  }
 }
